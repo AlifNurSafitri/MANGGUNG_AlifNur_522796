@@ -30,7 +30,7 @@ Website ini dirancang untuk memudahkan masyarakat dalam mengenal destinasi wisat
   <li>Landing page</li><br><img src = "header.jpg" width = "500"><br>
   <img src = "landing.png" width = "500"><br>
   <img src = "assets/landing1.png" width = "500"><br>
-   <li>Peta persebaran pariwisata</li><br><img src = "maps page.png" width = "500"><br>
-   <li>Tabel</li><br><img src = "database page.png" width = "500"><br>
-<li>Profil</li><br><img src = "info pembuat.png" width = "500"><br>
+   <img src = "maps page.png" width = "500"><br>
+   <img src = "database page.png" width = "500"><br>
+<img src = "info pembuat.png" width = "500"><br>
 </ul>
