@@ -28,9 +28,9 @@ Website ini dirancang untuk memudahkan masyarakat dalam mengenal destinasi wisat
 <h2>Tangkapan layar komponen penting produk:</h2>
 <ul>
   <br><img src = "Header.png" width = "500"><br>
-  <img src = "landing page.png" width = "500"><br>
+  <img src = "landing page .png" width = "500"><br>
   <img src = "landing page 2.png" width = "500"><br>
   <img src = "map page.png" width = "500"><br>
   <img src = "database page.png" width = "500"><br>
-<img src = "info pembuat.png" width = "500"><br>
+<img src = "Info pembuat.png" width = "500"><br>
 </ul>
