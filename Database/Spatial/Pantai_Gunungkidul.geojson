@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Pantai_Gunungkidul",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Nama": "Pantai Nguyahan", "X": 445253, "Y": 9102616, "Kecamatan": "PALIYAN", "FID": 0 }, "geometry": { "type": "Point", "coordinates": [ 110.503061602725893, -8.118067858252342 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Ngobaran", "X": 445298, "Y": 9102492, "Kecamatan": "PALIYAN", "FID": 1 }, "geometry": { "type": "Point", "coordinates": [ 110.50346867961953, -8.119189956422773 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Ngrenehan", "X": 446484, "Y": 9102275, "Kecamatan": "PALIYAN", "FID": 2 }, "geometry": { "type": "Point", "coordinates": [ 110.514231402548489, -8.121165747062106 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Baron", "X": 450290, "Y": 9101432, "Kecamatan": "TEPUS", "FID": 3 }, "geometry": { "type": "Point", "coordinates": [ 110.548769461136018, -8.12883063156791 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Kukup", "X": 450881, "Y": 9100891, "Kecamatan": "TEPUS", "FID": 4 }, "geometry": { "type": "Point", "coordinates": [ 110.554128604048628, -8.13373001356408 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Sepanjang", "X": 452188, "Y": 9100567, "Kecamatan": "TEPUS", "FID": 5 }, "geometry": { "type": "Point", "coordinates": [ 110.565989339496539, -8.136673512611496 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Drini", "X": 453458, "Y": 9100371, "Kecamatan": "TEPUS", "FID": 6 }, "geometry": { "type": "Point", "coordinates": [ 110.577515616499824, -8.138458533361325 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Krakal", "X": 455922, "Y": 9099648, "Kecamatan": "TEPUS", "FID": 7 }, "geometry": { "type": "Point", "coordinates": [ 110.5998756689673, -8.145020913132482 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Ngandong", "X": 456612, "Y": 9099493, "Kecamatan": "TEPUS", "FID": 8 }, "geometry": { "type": "Point", "coordinates": [ 110.606137769814083, -8.146429057654116 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Sundak", "X": 456800, "Y": 9099424, "Kecamatan": "TEPUS", "FID": 9 }, "geometry": { "type": "Point", "coordinates": [ 110.607843738073967, -8.14705483460834 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Indrayanti", "X": 457327, "Y": 9099026, "Kecamatan": "TEPUS", "FID": 10 }, "geometry": { "type": "Point", "coordinates": [ 110.612624143670573, -8.150659451689453 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Pok Tunggal", "X": 458333, "Y": 9098497, "Kecamatan": "TEPUS", "FID": 11 }, "geometry": { "type": "Point", "coordinates": [ 110.621751750688901, -8.155453028830886 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Timang", "X": 462814, "Y": 9096237, "Kecamatan": "TEPUS", "FID": 12 }, "geometry": { "type": "Point", "coordinates": [ 110.662412073161221, -8.17593137672829 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Jogan", "X": 464346, "Y": 9095775, "Kecamatan": "TEPUS", "FID": 13 }, "geometry": { "type": "Point", "coordinates": [ 110.676316596297838, -8.18012169167668 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Nglambor", "X": 464668, "Y": 9095489, "Kecamatan": "TEPUS", "FID": 14 }, "geometry": { "type": "Point", "coordinates": [ 110.679237760278198, -8.182710987071093 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Siung", "X": 465107, "Y": 9095587, "Kecamatan": "TEPUS", "FID": 15 }, "geometry": { "type": "Point", "coordinates": [ 110.683223888318096, -8.181827688753261 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Wediombo", "X": 468045, "Y": 9095100, "Kecamatan": "RONGKOP", "FID": 16 }, "geometry": { "type": "Point", "coordinates": [ 110.70989309073758, -8.18625280721521 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Jungwok", "X": 468315, "Y": 9093821, "Kecamatan": "RONGKOP", "FID": 17 }, "geometry": { "type": "Point", "coordinates": [ 110.712335986636532, -8.197823568907642 ] } },
+{ "type": "Feature", "properties": { "Nama": "Pantai Sadeng", "X": 477823, "Y": 9094642, "Kecamatan": "RONGKOP", "FID": 18 }, "geometry": { "type": "Point", "coordinates": [ 110.798661177963851, -8.1904496186263 ] } }
+]
+}
